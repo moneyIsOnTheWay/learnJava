@@ -5,6 +5,9 @@ package com.wy.design;
  * date 17-12-17
  * time 下午11:05
  * 线程安全，高效率单例模式
+ * 1、单例类只能有一个实例。
+ * 2、单例类必须自己创建自己的唯一实例。
+ * 3、单例类必须给所有其他对象提供这一实例。
  */
 public class SingleTon {
     private static SingleTon singleTon;
