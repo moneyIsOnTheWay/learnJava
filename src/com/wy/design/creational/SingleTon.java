@@ -1,4 +1,4 @@
-package com.wy.design;
+package com.wy.design.creational;
 
 /**
  * author wy

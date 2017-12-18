@@ -1,6 +1,4 @@
-package com.wy.design.test;
-
-import com.wy.design.SingleTon;
+package com.wy.design.creational.test;
 
 /**
  * author wy
