@@ -4,7 +4,9 @@ package com.wy.design.creational;
  * author wy
  * date 17-12-18
  * time 下午7:45
+ * 工厂模式
  */
+
 public class Factory {
     public static Animal getAnimal(String className){
         Animal animal = null;

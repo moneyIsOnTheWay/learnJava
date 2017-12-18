@@ -1,5 +1,7 @@
 package com.wy.design.creational.test;
 
+import com.wy.design.creational.SingleTon;
+
 /**
  * author wy
  * date 17-12-17
