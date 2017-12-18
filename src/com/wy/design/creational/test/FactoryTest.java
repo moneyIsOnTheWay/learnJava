@@ -1,7 +1,7 @@
 package com.wy.design.creational.test;
 
-import com.wy.design.creational.Animal;
-import com.wy.design.creational.Factory;
+import com.wy.design.creational.factory.Animal;
+import com.wy.design.creational.factory.Factory;
 
 /**
  * author wy

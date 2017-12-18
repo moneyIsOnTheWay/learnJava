@@ -1,10 +1,11 @@
-package com.wy.design.creational;
+package com.wy.design.creational.abstractfactory;
 
 /**
  * author wy
  * date 17-12-18
  * time 下午8:07
  */
+
 public class AnimalFactory extends AbstractFactory {
     @Override
     public Animal getAnimal(String animal) {

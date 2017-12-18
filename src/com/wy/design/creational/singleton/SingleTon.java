@@ -1,4 +1,4 @@
-package com.wy.design.creational;
+package com.wy.design.creational.singleton;
 
 /**
  * author wy
@@ -10,7 +10,7 @@ package com.wy.design.creational;
  * 3、单例类必须给所有其他对象提供这一实例。
  */
 public class SingleTon {
-    private static SingleTon singleTon;
+    private volatile static SingleTon singleTon;
 
     private SingleTon(){}
 

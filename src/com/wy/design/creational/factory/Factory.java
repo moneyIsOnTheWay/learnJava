@@ -1,4 +1,8 @@
-package com.wy.design.creational;
+package com.wy.design.creational.factory;
+
+import com.wy.design.creational.factory.Animal;
+import com.wy.design.creational.factory.Cat;
+import com.wy.design.creational.factory.Dog;
 
 /**
  * author wy

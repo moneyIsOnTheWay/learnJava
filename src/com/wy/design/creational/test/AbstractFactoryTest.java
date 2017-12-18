@@ -1,9 +1,9 @@
 package com.wy.design.creational.test;
 
-import com.wy.design.creational.AbstractFactory;
-import com.wy.design.creational.Animal;
-import com.wy.design.creational.FactoryProducer;
-import com.wy.design.creational.Sex;
+import com.wy.design.creational.abstractfactory.AbstractFactory;
+import com.wy.design.creational.factory.Animal;
+import com.wy.design.creational.abstractfactory.FactoryProducer;
+import com.wy.design.creational.abstractfactory.Sex;
 
 /**
  * author wy

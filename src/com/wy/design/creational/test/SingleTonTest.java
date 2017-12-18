@@ -1,6 +1,6 @@
 package com.wy.design.creational.test;
 
-import com.wy.design.creational.SingleTon;
+import com.wy.design.creational.singleton.SingleTon;
 
 /**
  * author wy
