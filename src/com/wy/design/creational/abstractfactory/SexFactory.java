@@ -1,7 +1,5 @@
 package com.wy.design.creational.abstractfactory;
 
-import com.wy.design.creational.factory.Animal;
-
 /**
  * author wy
  * date 17-12-18
